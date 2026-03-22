@@ -6,7 +6,8 @@ A high-performance, interactive car showcase built with **Vanilla JavaScript**, 
 
 ## 🔗 Live Demo
 Check out the interactive demo here:  
-**[View Live Demo]()** *(Replace with your actual link)*
+**[View Live Demo](https://priyanshjain543.github.io/Apex-Canvas-TASK-24/
+)** *(Replace with your actual link)*
 
 ---
 
